@@ -1,0 +1,3 @@
+Disallow: /elements.html
+Disallow: /form.html
+Disallow: /unsubscribe.html
